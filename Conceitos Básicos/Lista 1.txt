@@ -1,0 +1,120 @@
+	CPE - Lista 1
+
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+
+1. CPU - Hardware
+2. Disco rígido - Software
+3. Programa Word - Software
+4. Instagram - Software
+5. Teclado - Hardware
+
+2 - O que é software e qual sua importância?
+	R: O software é um conjunto de instruções planejadas para transformar dados em informações. E é importante poís pode ser usado como, por exemplo, um software de controle de estoque de uma loja, ou um software aplicativo de mensagens.
+
+ 3 - Defina com suas próprias palavras o que é algoritmo.
+	R: É um conjunto de instruções para fazer algo, um exemplo de algoritmo é uma receita de bolo, onde tem um passo a passo de como fazer um bolo, com sequência e instruções claras.
+
+ 4 - Cite exemplos de software usados na medicina, ciência no 
+entretenimento que você conhece. 
+	R: IClinic, ProDoctor, Python, Sony Vegas.
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida 
+mais complicada? 
+	R: Aplicativo de Mensagem, Aplicativo de música. Acho que nenhum deixa minha vida mais complicada.
+
+6 - Considere uma atividade de sua rotina diária. Como a computação 
+está direta ou indiretamente envolvida? 
+	R: Na hora de acordar já está diretamente envolvida com o alarme do meu celular e na faculdade também já que mal uso o caderno e costumo anotar tudo no bloco de notas do celular também.
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não 
+seria possível sem computadores. 
+	R: Simulação para previsão do tempo, ou de terremotos ou tsunamis.
+8 - Faça uma Lista programas que você utiliza.  
+	R: Discord, Navegador de Internet, Spotify, Whatsapp.
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de 
+nenhuma maneira. 
+	R: 1 - Esportes (Não eletrônicos)
+	   2 - Cozinhar
+	   3 - Pescar
+	   4 - Ler Livros
+    	   5 - Tocar Instrumentos Acústico
+	   6 - Conversar
+	   7 - Desenho, Técnico ou Artístico
+	   8 - Dançar
+	   9 - Costurar
+	   10 - Estudar
+10 - Você acha que a inteligência artificial vai acabar com empregos na 
+área da computação? Justifique. 
+	R: Alguns empregos mais simples sim, mas ao mesmo tempo irá criar outros como da "manutenção" da própria IA por exemplo.
+
+11 - Descreva a capacidade de seu computador em termos de 
+processamento, memória e armazenamento. 
+	R: 1.80GHz de Processamento, 8,00 GB de Memória RAM, 1TB de Memória de Armazenamento.
+
+12 - Descreva um algoritmo para resolver um cubo mágico. 
+	R: a. Resolução da Camada Branca (ou qualquer cor escolhida):
+- Comece pela camada branca, ou qualquer cor que você preferir.
+- Forme uma cruz com os cubos correspondentes à cor central da face.
+- Complete a primeira camada ao preencher os cantos dessa face.
+
+b. Resolução da Segunda Camada:
+- Vire o cubo para resolver a segunda camada. Aqui, você precisa posicionar corretamente os cubos da segunda camada em relação à camada branca.
+- Use algoritmos específicos para mover peças para suas posições corretas sem perturbar a camada branca.
+
+c. Resolução da Última Camada:
+- Resolva a camada final usando algoritmos que giram os cubos da última camada até que todas as cores correspondam.
+- Isso pode envolver orientar os cantos e as arestas para suas posições corretas e, em seguida, permutá-los até que todas as faces estejam corretamente alinhadas.
+
+13 - Qual a diferença entre bit e byte? 
+	R: Bit é o item de dado que um computador pode assumir e pode assumir apenas dois valores: 0 ou 1. Byte é um conjunto de 8 bits, é usado para representar caracteres em alguma codificação e foi criado para facilitar para as pessoas trabalharem pois usar bits é tedioso apesar que para as máquinas é um desperdício.
+
+14 - Como representar números reais usando sistema binário? 
+	R: Por exemplo, se você estiver usando 8 bits para representar um número real, pode designar 4 bits para a parte inteira e 4 bits para a parte fracionária. Assim, você pode representar números entre -7.9375 e 7.9375. O número 5.25 em binário seria representado como 0101.0100
+
+15 - Descreva os passos para converter o número decimal 150 para sua 
+representação em binário. 
+	R: Comece dividindo 150 por 2 e registre o resto da divisão.
+Continue dividindo o resultado da divisão anterior por 2 até que o quociente seja 0.
+Registre os restos da divisão em ordem inversa.
+Anote os restos:
+
+Ao fazer as divisões sucessivas por 2, anote os restos obtidos em cada etapa.
+Obtenha o número binário:
+
+Os restos registrados formarão a representação binária do número decimal.
+Vamos seguir esses passos:
+
+Passo 1: Divisões sucessivas por 2:
+
+150 ÷ 2 = 75 (resto: 0)
+75 ÷ 2 = 37 (resto: 1)
+37 ÷ 2 = 18 (resto: 1)
+18 ÷ 2 = 9 (resto: 0)
+9 ÷ 2 = 4 (resto: 1)
+4 ÷ 2 = 2 (resto: 0)
+2 ÷ 2 = 1 (resto: 0)
+1 ÷ 2 = 0 (resto: 1)
+Passo 2: Anote os restos (lidos de baixo para cima):
+
+Restos: 10010110
+Portanto, a representação binária do número decimal 150 é 10010110.
+
+16 - Descreva o papel do scrum master, dono do produto e do time de 
+desenvolvimento. 
+	R: Em resumo, o Scrum Master facilita o processo, o Dono do Produto define o que será feito e o Time de Desenvolvimento faz acontecer, todos trabalhando juntos para entregar valor ao cliente de forma iterativa e incremental.
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos 
+usando linha de comando no sistema operacional que você utiliza. 
+	R: (Windows) Mover um arquivo:
+Use o comando move seguido do nome do arquivo que deseja mover e, em seguida, o destino para onde deseja movê-lo.
+Exemplo: move arquivo.txt C:\PastaDestino\
+	Copiar um arquivo:
+Use o comando copy seguido do nome do arquivo que deseja copiar e, em seguida, o destino para onde deseja copiá-lo.
+Exemplo: copy arquivo.txt C:\PastaDestino\
+	Remover um arquivo:
+Use o comando del seguido do nome do arquivo que deseja remover.
+Exemplo: del arquivo.txt
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth
+	R: WiFi IEEE 802.1, Bluetooth IEEE 802.15
