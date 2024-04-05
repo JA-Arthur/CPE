@@ -1,6 +1,6 @@
 /*
-Lista 1, Quest„o 1
-Autor : Jo„o Arthur Farias
+Lista 2, Quest√£o 1
+Autor : Jo√£o Arthur Farias
 Data: 30/03/2024
 */
 
@@ -13,7 +13,7 @@ int main(){
     y = 2 & 2 + 2 * 2 / 2;
     z = (3 * 9 * (3+(9 * 3 / 3)));
     
-    cout << "X È igual a: " << x << "\n" << "Y È igual a: " << y <<"\n" << "Z È igual a: " << z << endl;
+    cout << "X √© igual a: " << x << "\n" << "Y √© igual a: " << y <<"\n" << "Z √© igual a: " << z << endl;
     
     return 0;
 }
